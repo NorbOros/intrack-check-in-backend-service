@@ -2,7 +2,7 @@
 
 Reactive RESTful Web Service for processing client and appointment related data.  
 
-# Main thech stack 
+# Main tech stack 
 
 * Java 17 
 * Spring-boot 
