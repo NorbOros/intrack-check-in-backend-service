@@ -1,0 +1,17 @@
+server:
+  port: 8080
+spring:
+  webflux:
+    base-path: /checkin-service-backend
+---
+info:
+  build:
+    version: 0.0.1-SNAPSHOT
+---
+mongodb:
+  name: intrack
+  host: localhost
+  port: 27017
+  user: intrackadmin
+  password: intrackadmin
+
